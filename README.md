@@ -19,14 +19,4 @@
 <br/>
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdalapola&layout=compact&show_icons=true&theme=codeSTACKr"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github.com/lucasdalapola/github-readme-stats"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github.com/lucasdalapola/github-readme-stats" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdalapola&theme=codeSTACKr)](https://github.com/lucasdalapola/github-readme-stats)
